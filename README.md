@@ -63,12 +63,6 @@ Speak aloud. Once you say **"Alfred"**, it will respond and carry out your comma
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Credits
 
 - [RealtimeSTT](https://github.com/SYSTRAN/RealtimeSTT)
