@@ -18,7 +18,6 @@
 
 ```bash
 git clone https://github.com/jpyon27/alfred-voice-ai.git
-cd alfred-voice-ai
 ```
 
 2. **Install Dependencies:**
